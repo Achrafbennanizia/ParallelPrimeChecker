@@ -1,0 +1,14 @@
+/Users/achraf/pro/C#_Net/ParallelPrimeChecker/obj/Debug/net10.0/ParallelPrimeChecker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/achraf/pro/C#_Net/ParallelPrimeChecker/obj/Debug/net10.0/ParallelPrimeChecker.AssemblyInfoInputs.cache
+/Users/achraf/pro/C#_Net/ParallelPrimeChecker/obj/Debug/net10.0/ParallelPrimeChecker.AssemblyInfo.cs
+/Users/achraf/pro/C#_Net/ParallelPrimeChecker/obj/Debug/net10.0/ParallelPrimeChecker.csproj.CoreCompileInputs.cache
+/Users/achraf/pro/C#_Net/ParallelPrimeChecker/bin/Debug/net10.0/ParallelPrimeChecker
+/Users/achraf/pro/C#_Net/ParallelPrimeChecker/bin/Debug/net10.0/ParallelPrimeChecker.deps.json
+/Users/achraf/pro/C#_Net/ParallelPrimeChecker/bin/Debug/net10.0/ParallelPrimeChecker.runtimeconfig.json
+/Users/achraf/pro/C#_Net/ParallelPrimeChecker/bin/Debug/net10.0/ParallelPrimeChecker.dll
+/Users/achraf/pro/C#_Net/ParallelPrimeChecker/bin/Debug/net10.0/ParallelPrimeChecker.pdb
+/Users/achraf/pro/C#_Net/ParallelPrimeChecker/obj/Debug/net10.0/ParallelPrimeChecker.dll
+/Users/achraf/pro/C#_Net/ParallelPrimeChecker/obj/Debug/net10.0/refint/ParallelPrimeChecker.dll
+/Users/achraf/pro/C#_Net/ParallelPrimeChecker/obj/Debug/net10.0/ParallelPrimeChecker.pdb
+/Users/achraf/pro/C#_Net/ParallelPrimeChecker/obj/Debug/net10.0/ParallelPrimeChecker.genruntimeconfig.cache
+/Users/achraf/pro/C#_Net/ParallelPrimeChecker/obj/Debug/net10.0/ref/ParallelPrimeChecker.dll
