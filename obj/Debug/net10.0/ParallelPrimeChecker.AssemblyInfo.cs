@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ParallelPrimeChecker")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+acd5c1dd1979140549cb03452549c1b23a4f0dee")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+83589aed601711ff66132163991054b52c7ee70e")]
 [assembly: System.Reflection.AssemblyProductAttribute("ParallelPrimeChecker")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ParallelPrimeChecker")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

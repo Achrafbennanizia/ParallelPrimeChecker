@@ -1,0 +1,67 @@
+## Build output
+bin/
+obj/
+out/
+publish/
+
+## Visual Studio / JetBrains / VSCode
+.vscode/
+.vs/
+.idea/
+
+## User-specific files
+*.user
+*.suo
+*.userprefs
+
+## Temporary files
+*.tmp
+*.temp
+*.bak
+*.log
+
+## MacOS system files
+.DS_Store
+
+## NuGet
+*.nupkg
+packages/
+*.snupkg
+
+## .NET environment
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+## Auto-generated files
+Generated/
+Generated_Code/
+
+## ASP.NET logs
+logs/
+*.db
+
+## Rider exceptions
+.idea/.idea.*
+
+## Azure
+PublishProfiles/
+App_Data/
+
+## Resharper
+_ReSharper*/
+*.[Rr]esult
+
+## Test output
+TestResults/
+*.coverage
+*.coveragexml
+
+## Entity Framework
+*.mdf
+*.ldf
+Migrations/
+
+## Others
+*.swp
+
